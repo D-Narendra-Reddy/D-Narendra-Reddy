@@ -1,98 +1,103 @@
-<!-- Animated Banner -->
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Uday%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Narendra%20Reddy&fontAlign=50&fontSize=48&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  🚀 Full Stack Developer | MERN Learner | B.Tech CSE 2025
+  💻 Full Stack Developer | Backend Enthusiast | B.Tech CSE 2025
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;MERN+Stack+Learner;Open+to+Job+Opportunities;Love+Building+Projects;India+🇮🇳" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&color=36BCF7&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Focused+Engineer;Open+to+Opportunities;India+🇮🇳" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narendrareddy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👋 About Me
-🎓 **B.Tech CSE Passout (2025)**  
-💻 **Aspiring Backend / Full Stack Developer**  
-🔥 Currently learning **React, Next.js, MERN Stack**  
-🎯 Goal: **Get placed in a reputed company**  
-📍 India 🇮🇳
+## 🧠 About Me
+🎓 **B.Tech Computer Science (2025 Passout)**  
+💻 **Backend-focused Full Stack Developer**  
+⚙️ Passionate about **APIs, Databases & System Logic**  
+🌱 Currently learning **React, Next.js & MERN Stack**  
+🎯 Goal: **Join a product-based company as a developer**
 
 ---
 
-## 📫 Reach Me
-📧 **Email:** `udaykumar9492@gmail.com`
+## 🧑‍💻 Tech Philosophy
+> *“Good software is built with logic, not just libraries.”*
 
-<p align="left">
-  <a href="mailto:udaykumar9492@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- Clean code > fancy code  
+- Backend logic > UI tricks  
+- Scalability > shortcuts  
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Core)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,vscode,figma,bootstrap,tailwind" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+## ⚙️ Backend Skills (Highlighted)
+- REST API Development  
+- Authentication & Authorization  
+- Database Design (SQL & NoSQL)  
+- Server-side Logic & Validation  
+- MVC Architecture  
+- Error Handling & Optimization  
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykumar18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narendrareddy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykumar18&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrareddy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar18&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrareddy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaykumar18&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=narendrareddy&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📌 Current Focus
-- 🔨 Building real-world projects
-- 📚 Improving DSA & backend skills
-- 🧠 Writing clean & scalable code
-- 💼 Actively looking for opportunities
+## 🚧 What I’m Working On
+- 🔨 Real-world MERN projects  
+- 🔐 Backend authentication systems  
+- 🧠 Improving problem-solving & logic  
+- 📦 Writing reusable & scalable code  
 
 ---
 
-## 💡 Quote
-<p align="center">
-  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+## 📫 Contact
+📧 **Email:** yourmail@gmail.com  
+
+<p align="left">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
 </p>
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
-</p>
+## ⚡ Fun Tech Fact
+```js
+while(!success){
+  tryAgain();
+}
