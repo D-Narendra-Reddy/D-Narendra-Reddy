@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  💻 A passionate Developer from India
+  💻 A Passionate Full Stack Developer from India
 </h3>
 
 <p align="center">
