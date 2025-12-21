@@ -37,20 +37,12 @@
 
 ## 🛠️ Tech Stack (Core)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,vscode,figma,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,vscode,figma,bootstrap,tailwind" />
+  
 </p>
 
 ---
 
-## ⚙️ Backend Skills (Highlighted)
-- REST API Development  
-- Authentication & Authorization  
-- Database Design (SQL & NoSQL)  
-- Server-side Logic & Validation  
-- MVC Architecture  
-- Error Handling & Optimization  
-
----
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -78,15 +70,14 @@
 ---
 
 ## 🚧 What I’m Working On
-- 🔨 Real-world MERN projects  
-- 🔐 Backend authentication systems  
+- 🔨 Real-world projects  
 - 🧠 Improving problem-solving & logic  
 - 📦 Writing reusable & scalable code  
 
 ---
 
 ## 📫 Contact
-📧 **Email:** yourmail@gmail.com  
+📧 **Email:** work.narendrareddy75@gmail.com
 
 <p align="left">
   <a href="mailto:yourmail@gmail.com">
