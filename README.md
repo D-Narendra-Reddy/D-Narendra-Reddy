@@ -2,13 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Narendra%20Reddy&fontAlign=50&fontSize=48&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
 </p>
-<p align="center" style="margin-top:-10px;">
-  <sub>🇮🇳 From India</sub>
-</p>
-
 
 <h3 align="center">
-  💻 Full Stack Developer | Backend Enthusiast | B.Tech CSE 2025
+  💻 A passionate Developer from India
 </h3>
 
 <p align="center">
