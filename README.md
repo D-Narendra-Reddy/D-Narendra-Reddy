@@ -43,18 +43,6 @@
 
 ---
 
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrareddy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrareddy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚧 What I’m Working On
 - 🔨 Real-world projects  
 - 🧠 Improving problem-solving & logic  
