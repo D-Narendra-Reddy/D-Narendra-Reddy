@@ -42,6 +42,24 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?https://github.com/D-Narendra-Reddy&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?https://github.com/D-Narendra-Reddy&theme=radical" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/D-Narendra-Reddy&layout=compact&theme=radical" />
+</p>
 
 ## 🚧 What I’m Working On
 - 🔨 Real-world projects  
