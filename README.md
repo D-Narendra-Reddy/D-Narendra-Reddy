@@ -42,24 +42,14 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Narendra-Reddy&show_icons=true&theme=radical" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Narendra-Reddy&show_icons=true&theme=radical)
 
----
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=D-Narendra-Reddy&theme=radical)
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=D-Narendra-Reddy&theme=radical" />
-</p>
-
----
-
-### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Narendra-Reddy&layout=compact&theme=radical" />
-</p>
+## 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Narendra-Reddy&layout=compact&theme=radical)
 
 ## 🚧 What I’m Working On
 - 🔨 Real-world projects  
