@@ -1,76 +1,76 @@
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Narendra%20Reddy&fontAlign=50&fontSize=48&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
-</p>
+# 👋 Hi, I'm Narendra Reddy
 
-<h3 align="center">
-  💻 A Passionate Full Stack Developer from India
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&color=36BCF7&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Focused+Engineer;Open+to+Opportunities;India+🇮🇳" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narendrareddy&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+🎓 B.Tech Graduate | 💻 Aspiring Backend Developer
 
 ---
 
-## 🧠 About Me
-🎓 **B.Tech Computer Science (2025 Passout)**  
-💻 **Backend-focused Full Stack Developer**  
-⚙️ Passionate about **APIs, Databases & System Logic**  
-🌱 Currently learning **React, Next.js & MERN Stack**  
-🎯 Goal: **Join a product-based company as a developer**
+## 🚀 About Me
+
+* 🌱 Currently learning **Java, Spring Boot, and Backend Development**
+* 💡 Interested in building **scalable web applications & REST APIs**
+* 🎯 Goal: To become a **Backend Developer in a reputed company**
+* ⚡ Strong interest in **problem-solving and coding practice**
 
 ---
 
-## 🧑‍💻 Tech Philosophy
-> *“Good software is built with logic, not just libraries.”*
+## 🛠️ Tech Stack
 
-- Clean code > fancy code  
-- Backend logic > UI tricks  
-- Scalability > shortcuts  
+### 💻 Programming & Backend
 
----
+* Java
+* Spring Boot
+* Hibernate
+* Spring Data JPA
+* REST APIs
 
-## 🛠️ Tech Stack (Core)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,vscode,figma,bootstrap,tailwind" />
-  
-</p>
+### 🌐 Frontend
 
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Narendra-Reddy&show_icons=true&theme=radical)
+* HTML
+* CSS
+* JavaScript (Basics)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=D-Narendra-Reddy&theme=radical)
+### 🗄️ Databases
 
-## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Narendra-Reddy&layout=compact&theme=radical)
+* MySQL
+* PostgreSQL
 
-## 🚧 What I’m Working On
-- 🔨 Real-world projects  
-- 🧠 Improving problem-solving & logic  
-- 📦 Writing reusable & scalable code  
+### ⚙️ Tools & Technologies
 
----
+* Git & GitHub
+* Maven
+* JDBC
 
-## 📫 Contact
-📧 **Email:** work.narendrareddy75@gmail.com
+### 🧑‍💻 IDE & Platforms
 
-<p align="left">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
+* IntelliJ IDEA
+* Eclipse
+* VS Code
 
 ---
 
-## ⚡ Fun Tech Fact
-```js
-while(!success){
-  tryAgain();
-}
+## 📂 Projects
+
+### 🔹 Student Management System
+
+* Developed using **Spring Boot, Hibernate, and MySQL**
+* Implemented **CRUD operations using REST APIs**
+* Focused on clean architecture and backend logic
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Java Concepts
+* Spring Boot Deep Dive
+* Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/your-username
+* LinkedIn: (Add your LinkedIn link here)
+
+---
+
+⭐ *“Consistent learning and building projects every day.”*
